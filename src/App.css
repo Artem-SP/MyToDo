@@ -1,0 +1,19 @@
+.App {
+ 
+}
+
+.table  {
+    border-color: black;
+   width: 80%;
+    
+}
+
+.table td  {
+  
+    border: solid 2px;
+    width: 100px;
+}
+
+table tr {
+    border: solid 2px;
+}
