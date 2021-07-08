@@ -1,19 +1,24 @@
 .App {
- 
 }
 
-.table  {
-    border-color: black;
-   width: 80%;
-    
+.table {
+  border-color: black;
+  width: 80%;
 }
 
-.table td  {
-  
-    border: solid 2px;
-    width: 100px;
+.table td {
+  border: solid 2px;
+  width: 100px;
 }
 
 table tr {
-    border: solid 2px;
+  border: solid 2px;
+}
+
+.oddRow {
+  background-color: #fad2d2;
+}
+
+.evenRow {
+  background-color: rgb(221, 250, 142);
 }
